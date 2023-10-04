@@ -1,0 +1,16 @@
+Depeartment Name					 Name 			 Assgin Lockers 	 Key Holder Name 	 Type 
+
+ | Information Technology		 | ganesh		 | 3		 | rupal		 | 		
+ | Information Technology		 | durwa		 | 4		 | nachiket		 | 		
+ | Information Technology		 | Kushal		 | 6		 | raj		 | 		
+ | Information Technology		 | kushal		 | 5		 | nachiket		 | 		
+ | Information Technology		 | Nachiket		 | 19		 | abc		 | 		
+ | Information Technology		 | Nachiket		 | 20		 | qwetr		 | 		
+ | Information Technology		 | apurva		 | 8		 | nachiket		 | lockers		
+ | Information Technology		 | apurva		 | 10		 | nachiket		 | lockers		
+ | Information Technology		 | apurva		 | 15		 | nachiket		 | lockers		
+ | Information Technology		 | hemant		 | 20		 | nachiket		 | doors		
+ | Information Technology		 | hemant		 | 21		 | nachiket		 | doors		
+ | Information Technology		 | rupal 		 | 100		 | Nachiket 		 | lockers		
+ | Information Technology		 | apurva		 | 19		 | nachiket		 | lockers		
+ | Information Technology		 | apurva		 | 17		 | nachiket		 | lockers		
